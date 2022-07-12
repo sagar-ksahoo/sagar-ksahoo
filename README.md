@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me 
 
-- 🖥️ I’m currently working on **Amazon-Clone**
+- 🖥️ I’m currently working on **Netflix-Clone**
 
 - 💯 love to solve complex **mathematical** & **algorithmic problems**
 
