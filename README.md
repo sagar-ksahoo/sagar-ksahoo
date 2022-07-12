@@ -1,4 +1,4 @@
-<a href="#"><img width="100%"  src="https://simplepassivecashflow.com/wp-content/uploads/2017/11/Work-Fun.gif" height="280px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://simplepassivecashflow.com/wp-content/uploads/2017/11/Work-Fun.gif" height="280px"/></a>
 
 <h1 align="center">Welcome<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> to Sagar's Github</h1>
 <h3 align="center">I'm a final year UG(2023) studying at NIT-Delhi, India</h3>
