@@ -5,11 +5,11 @@
 
 ## 🙋‍♂️ About Me 
 
-- 🖥️ I’m currently working on **[Netflix-Clone](https://github.com/sagar-ksahoo/Netflix-clone)**
+- 🖥️ I’m currently working on **[Amazon-Clone](https://github.com/sagar-ksahoo/amazon-app)** with Firebase .
 
 - 💯 love to solve complex **mathematical** & **algorithmic problems**
 
-- 👨‍💻 I've solved 500+ problems on **DSA** at **[Leetcode](https://leetcode.com/SKSAHOO/)**
+- 👨‍💻 I've solved 550+ problems on **DSA** at **[Leetcode](https://leetcode.com/SKSAHOO/)**
 
 - 🏁 3🌟 at **codechef**, **HackerRank** at **Problem Solving**
 
