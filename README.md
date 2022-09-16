@@ -5,7 +5,7 @@
 
 ## 🙋‍♂️ About Me 
 
-- 🖥️ I’m currently working on **[Amazon-Clone](https://github.com/sagar-ksahoo/amazon-app)** with Firebase .
+- 🖥️ I’m currently working on **[We-Chat-App](https://github.com/sagar-ksahoo/we-chat-app)** with React + Firebase .
 
 - 💯 love to solve complex **mathematical** & **algorithmic problems**
 
