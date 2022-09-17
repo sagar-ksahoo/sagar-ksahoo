@@ -9,9 +9,9 @@
 
 - 💯 love to solve complex **mathematical** & **algorithmic problems**
 
-- 👨‍💻 I've solved 550+ problems on **DSA** at **[Leetcode](https://leetcode.com/SKSAHOO/)**
+- 👨‍💻 solved 600+ problems on **DSA** at **[Leetcode](https://leetcode.com/SKSAHOO/)**
 
-- 🏁 3🌟 at **codechef**, **HackerRank** at **Problem Solving**
+- 🏁 3🌟 at **codechef**, 3🌟 at **HackerRank** in **Problem Solving** and **My-SQL**
 
 - 📫 You can reach me at **191220042@nitdelhi.ac.in**
 
