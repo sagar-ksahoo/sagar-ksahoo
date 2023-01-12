@@ -49,10 +49,14 @@
     </a>
 </p>
 
-## 📊 My Github Stats
+## 📊 My Leetcode Stats
 
   <br/>
-    <a href="https://github.com/sagar-ksahoo/github-readme-stats"><img alt="Sagar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sagar-ksahoo&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/sagar-ksahoo/github-readme-stats"><img alt="Sagar's LeetCode Stats" src="https://stats.justsong.cn/api/leetcode/?username=SKSAHOO&theme=dark" /></a>
+
+# 📊 My Github Stats
+    
+    <br/>
   <a href="https://github.com/sagar-ksahoo/github-readme-stats"><img alt="Sagar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagar-ksahoo&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
