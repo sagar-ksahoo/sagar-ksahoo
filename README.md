@@ -57,7 +57,7 @@
 # 📊 My Github Stats
     
    <br/>
-  <a href="https://github.com/sagar-ksahoo/github-readme-stats"><img alt="Sagar's Top Languages" src="https://github-readme-stats-           arasgungore.vercel.app/api?username=sagar-ksahoo&amp;hide_border=true&amp;show_icons=true&amp;count_private=true" /></a>
+  <a href="https://github.com/sagar-ksahoo/github-readme-stats"><img alt="Sagar's Top Languages" src="https://github-readme-stats-arasgungore.vercel.app/api?username=sagar-ksahoo&amp;hide_border=true&amp;show_icons=true&amp;count_private=true" style="max-width: 100%;"/></a>
    
    <br/>
   <a href="https://github.com/sagar-ksahoo/github-readme-stats"><img alt="Sagar's Top Languages" src="https://github-readme-stats-arasgungore.vercel.app/api/top-langs/?username=sagar-ksahoo&amp;hide_border=true&amp;langs_count=8&amp;layout=compact&amp;count_private=true" /></a>
@@ -68,7 +68,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/sagar-ksahoo/github-readme-activity-graph"><img alt="Sagar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sagar-ksahoo&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/sagar-ksahoo/github-readme-activity-graph"><img alt="Sagar's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=sagar-ksahoo&bg_color=e3d1ff&color=100910&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph" /></a>
 
 <br/>
 <br/>
