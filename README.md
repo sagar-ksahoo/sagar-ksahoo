@@ -1,19 +1,17 @@
 <a href="#"><img width="100%" height="auto" src="https://media.tenor.com/I1PFk9KcZpMAAAAd/welcome.gif" height="280px"/></a>
 
 <h1 align="center">Welcome<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> to Sagar's Github</h1>
-<h3 align="center">I'm a final year UG(2023) studying at NIT-Delhi, India</h3>
+<h3 align="center">I'm a Software Developer at Samsung Research</h3>
 
 ## 🙋‍♂️ About Me 
-
-- 🖥️ I’m currently working on **[react-social-media-app](https://github.com/sagar-ksahoo/react-social-media-app)** using ReactJS + Firebase .
 
 - 💯 love to solve complex **mathematical** & **algorithmic problems**
 
 - 👨‍💻 solved 600+ problems on **DSA** at **[Leetcode](https://leetcode.com/SKSAHOO/)**
 
-- 🏁 3🌟 at **codechef**, 3🌟 at **HackerRank** in **Problem Solving** and **My-SQL**
+- 🏁 3🌟 at **CodeChef**, 3🌟 at **HackerRank** in **Problem Solving** and **My-SQL**
 
-- 📫 You can reach me at **191220042@nitdelhi.ac.in**
+- 📫 You can reach me at **sagarsahoo1729@gmail.com**
 
 
 ## 🚀 Languages and Tools:
